@@ -22,9 +22,9 @@ This service is written in NodeJS, Hence need to install NodeJS in the system.
 $curl -sL https://deb.nodesource.com/setup_8.x | sudo -E bash -
 
 $sudo apt install nodejs -y
-
+```
 Deploy in Nginx Default Location.
-
+```
 #cd /var/www/html/
 
 #mkdir todoapp
