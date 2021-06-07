@@ -32,7 +32,7 @@ Deploy in Nginx Default Location.
 Lets clone the code from github repository
 
 ```
-# git clone https://github.com/zelar-soft-todoapp/frontend.git
+# git clone https://github.com/zs-amrutha/frontend.git
 
 # cd frontend/
 
