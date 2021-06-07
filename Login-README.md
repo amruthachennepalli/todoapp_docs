@@ -65,7 +65,7 @@ Inside the workspace create a new directory /src
 Lets clone the code from github repository 
 
 ```
-  # git clone https://github.com/zelar-soft-todoapp/login.git
+  # git clone https://github.com/zs-amrutha/login.git
 
   # cd login/
 ```
